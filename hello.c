@@ -8,7 +8,7 @@ int main() {
    printf("\nEnter the value of b=");
    scanf("%d",&b);
    printf("\na=%d and b=%d",a,b);
-   
+   // Swapping values of a and b     
    
    
    
